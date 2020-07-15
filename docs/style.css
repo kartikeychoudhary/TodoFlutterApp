@@ -30,5 +30,5 @@ body {
     rgba(115, 31, 170, 1) 40%,
     rgba(255, 0, 82, 1) 100%
   );
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#731faa",endColorstr="#ff0052",GradientType=1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#731faa",endColorstr="#ff0052",GradientType=1);         
 }
