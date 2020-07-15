@@ -1,5 +1,5 @@
 # Todo
 
-[Preview...](https://kartikeychoudhary.github.io/TodoFlutterApp/docs/)
+[Preview...](https://kartikeychoudhary.github.io/TodoFlutterApp/)
 
 
